@@ -1,0 +1,7 @@
+#Wed Nov 02 18:59:00 CST 2016
+base.0=G\:\\MiDu\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_dc393f1a1c8ac558e0cd17159f7c3d10085ab0d3
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=G\:\\MiDu\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3e912f1f0106fe93a14e6a334999185320faf35b\\classes.dex
+base.1=G\:\\MiDu\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3e912f1f0106fe93a14e6a334999185320faf35b
+file.0=G\:\\MiDu\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_dc393f1a1c8ac558e0cd17159f7c3d10085ab0d3\\classes.dex

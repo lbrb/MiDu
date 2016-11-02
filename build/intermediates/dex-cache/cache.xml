@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\MiDu\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1632f035726081fc8f3aa0d68db20d7d0534ee4a">
+        <dex dex="G:\MiDu\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3e912f1f0106fe93a14e6a334999185320faf35b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MiDu\libs\android-support-v4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1dc1f63cee098b27db60b9a2833fd7ca58f89636">
+        <dex dex="G:\MiDu\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_ed05f6a759236b653b696704b6aa74bbdc5ab9ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\MiDu\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="264ac2401b32c2b635ffd939b787d26c75f8fb71">
+        <dex dex="G:\MiDu\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_dc393f1a1c8ac558e0cd17159f7c3d10085ab0d3\classes.dex" />
+    </item>
+
+</items>

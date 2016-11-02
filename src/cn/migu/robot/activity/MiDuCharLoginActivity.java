@@ -3,7 +3,7 @@ package cn.migu.robot.activity;
 import android.app.Activity;
 
 /*
- * µÇÂ¼Activity
+ * ç™»å½•Activity
  */
 public class MiDuCharLoginActivity extends Activity {
 

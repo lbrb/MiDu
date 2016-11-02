@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="22"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="2197685071565663"
+    token="549544647425915912"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="211" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="2197624094526433"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="G:\MiDu\build\outputs\apk\MiDu-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="2197685071565663"
+        verifier="COLD_SWAP_REQUESTED" />
+
+</instant-run>
