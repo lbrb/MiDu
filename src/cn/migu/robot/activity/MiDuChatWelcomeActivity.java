@@ -4,7 +4,7 @@ import android.app.Activity;
 
 
 /*
- * 启动动画Activity，动画结束跳转到登录界面
+ * 鍚姩鍔ㄧ敾Activity锛屽姩鐢荤粨鏉熻烦杞埌鐧诲綍鐣岄潰
  */
 public class MiDuChatWelcomeActivity extends Activity {
 

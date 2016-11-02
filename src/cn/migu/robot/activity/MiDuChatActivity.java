@@ -5,7 +5,7 @@ import android.content.Context;
 import android.os.Bundle;
 
 /*
- * 登录成功之后，跳转到MiDuChatActivity聊天界面，即程序的主界面
+ * 鐧诲綍鎴愬姛涔嬪悗锛岃烦杞埌MiDuChatActivity鑱婂ぉ鐣岄潰锛屽嵆绋嬪簭鐨勪富鐣岄潰
  */
 public class MiDuChatActivity extends Activity {
 	
