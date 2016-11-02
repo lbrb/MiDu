@@ -1,0 +1,7 @@
+<resources>
+    <style name="activity_midu_theme" parent="android:Theme">
+        <item name="android:background">@android:color/white</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>
