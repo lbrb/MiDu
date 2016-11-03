@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Nov 02 18:59:00 CST 2016
+#Wed Nov 02 19:22:24 CST 2016
 8.set=ANDROID_RESOURCE
 1.base=G\:\\MiDu\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3e912f1f0106fe93a14e6a334999185320faf35b
 1.file=G\:\\MiDu\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3e912f1f0106fe93a14e6a334999185320faf35b\\classes.dex

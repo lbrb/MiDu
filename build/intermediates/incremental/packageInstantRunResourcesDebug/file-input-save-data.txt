@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Nov 02 18:58:55 CST 2016
+#Wed Nov 02 19:22:23 CST 2016
 1.base=G\:\\MiDu\\build\\intermediates\\res\\resources-debug.ap_
 1.file=G\:\\MiDu\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_mi_du_chat_layout.xml
 2.base=G\:\\MiDu\\build\\intermediates\\res\\resources-debug.ap_

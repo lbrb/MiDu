@@ -1,6 +1,11 @@
 package cn.migu.robot.activity;
 
 import android.app.Activity;
+import android.graphics.Color;
+import android.os.Bundle;
+import android.view.View;
+
+import cn.migu.robot.welcome.WelcomeView;
 
 
 /*
@@ -8,7 +13,9 @@ import android.app.Activity;
  */
 public class MiDuChatWelcomeActivity extends Activity {
 
-	public MiDuChatWelcomeActivity() {
-		// TODO Auto-generated constructor stub
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(new WelcomeView(this));
 	}
 }

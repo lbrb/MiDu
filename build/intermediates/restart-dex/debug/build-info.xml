@@ -4,32 +4,40 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="2197685071565663"
+    timestamp="2282345087270937"
     token="549544647425915912"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="211" />
+        duration="58" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="12" />
     <task
         name="verifier"
-        duration="0" />
+        duration="2" />
+
+    <artifact
+        location="G:\MiDu\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+        type="DEX" />
 
     <build
-        timestamp="2197624094526433"
+        timestamp="2280988296578122"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="G:\MiDu\build\outputs\apk\MiDu-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="2197685071565663"
-        verifier="COLD_SWAP_REQUESTED" />
+        timestamp="2282345087270937"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="G:\MiDu\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+    </build>
 
 </instant-run>

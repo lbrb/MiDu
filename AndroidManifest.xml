@@ -15,7 +15,7 @@
         android:theme="@style/activity_midu_theme" >
         <!-- android:screenOrientation="portrait" -->
         <activity
-            android:name="cn.migu.robot.activity.MiDuChatActivity" >
+            android:name="cn.migu.robot.activity.MiDuChatWelcomeActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
